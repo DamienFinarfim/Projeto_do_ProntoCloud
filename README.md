@@ -1,4 +1,4 @@
-### Projeto do ProntoCloud
+### ProntoCloud Project
 
-#### Estarei dando inicio ao projeto do site do ProntoCloud e demostrando cade evolução conforme o desenvolvimento do trabalho.
-#### Todo aprendizado abvordado em aula será praticado nesse projeto.
+#### I will be starting the project for the ProntoCloud website and demonstrating its evolution as the work progresses.
+#### All learning covered in class will be practiced in this project.
